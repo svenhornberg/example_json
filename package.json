@@ -1,0 +1,22 @@
+{
+  "name": "example_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svenhornberg/example_json.git"
+  },
+  "author": "Sven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svenhornberg/example_json/issues"
+  },
+  "homepage": "https://github.com/svenhornberg/example_json#readme",
+  "dependencies": {
+    "json-server": "^0.9.6"
+  }
+}
